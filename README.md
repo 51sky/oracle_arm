@@ -112,7 +112,10 @@ pip3 install -r requirements.txt
 
 会自动停止的,不用管了。Done and enjoy 🎉
 
-# 再次感谢
+查看日志：
+tail -100f oracle_arm.log
+
+# 再次感谢t
 
 感谢 [大鸟博客](https://www.daniao.org/) 最先放出刷ARM脚本,本脚本只是懒的解析参数并不想忍受oci terminal糟糕的响应速度不得已而写。
 
